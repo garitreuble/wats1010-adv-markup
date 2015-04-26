@@ -1,1 +1,96 @@
 /* Styles for the Advanced Markup assignment. */
+
+nav ul li {
+	display: inline;
+}
+
+a.active {
+	font-weight: bold;
+	color: darkslategray;
+}
+
+a {
+	color: darkslategray;
+}
+
+dt {
+	font-weight: bold;
+}
+
+h6 {
+	margin-top: 2px;
+	margin-bottom: 2px;
+	font-style: italic;
+}
+
+header h1 {
+	background-color: darkslategray;
+	padding: 20px;
+	color: white;
+}
+
+
+.top-nav {
+	background-color: darkgray;
+	padding: 20px;
+	border-top: 10px solid darkslategray;
+	font-size: large;
+	text-transform: uppercase;
+	
+}
+
+.bottom-nav {
+	background-color: darkgray;
+	padding: 20px;
+	border-bottom: 10px solid darkslategray;
+	font-size: large;
+	text-transform: uppercase;
+	
+}
+
+p {
+	line-height: 1.5;
+}
+
+.poem {
+	list-style-type: none;
+}
+
+.poem li {
+	font-size: large;
+	font-style: italic;
+	line-height: 2;
+}
+
+
+#sidebar {
+	width: 250px;
+	float: right;
+	border-top: 10px solid darkslategray;
+	border-bottom: 10px solid darkslategray;
+	margin: 20px;
+	padding: 10px;
+	color: darkslategray;
+}
+
+table {
+	width: 60%;
+	border-spacing: 5px;
+}
+
+caption {
+	text-align: left;
+	background-color: darkgray;
+	padding: 15px;
+	font-size: large;
+	font-style: italic;
+	border-top: 10px solid darkslategray;
+	border-bottom: 10px solid darkslategray;
+}
+
+th {
+	text-align: left;
+}
+
+
+
